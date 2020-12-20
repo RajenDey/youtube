@@ -1,7 +1,7 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 /data/client_secret.json
-
+/data/credential_sample.json
 
 # dependencies
 /frontend/node_modules
